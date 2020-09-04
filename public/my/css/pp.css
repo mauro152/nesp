@@ -1,0 +1,19 @@
+html,body {
+    padding: 5;
+    margin: 5;
+    font: 14px;
+    color: #4788;
+}
+h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 30px;
+    color: #875234;
+}
+form {
+    padding: 40px;
+    background: #DDD;
+    border: 8px solid #AAA;
+    width: 360px;
+    margin: 30px auto;
+}
